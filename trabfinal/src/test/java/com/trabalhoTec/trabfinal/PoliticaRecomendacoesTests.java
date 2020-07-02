@@ -2,7 +2,7 @@ package com.trabalhoTec.trabfinal;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.trabalhoTec.trabfinal.CasosdeUso.PoliticaRecomendacoes;
+import com.trabalhoTec.trabfinal.CasosDeUso.PoliticaRecomendacoes;
 import com.trabalhoTec.trabfinal.Entities.Dungeon;
 import com.trabalhoTec.trabfinal.Entities.Usuario;
 import com.trabalhoTec.trabfinal.Entities.UsuarioBuilder;

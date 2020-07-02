@@ -7,9 +7,9 @@ import java.util.Map;
 
 import javax.persistence.Entity;
 
-import com.trabalhoTec.trabfinal.CasosdeUso.PoliticaRecomendacoes;
-import com.trabalhoTec.trabfinal.CasosdeUso.RepoDungeon;
-import com.trabalhoTec.trabfinal.CasosdeUso.RepoUsuario;
+import com.trabalhoTec.trabfinal.CasosDeUso.PoliticaRecomendacoes;
+import com.trabalhoTec.trabfinal.CasosDeUso.RepoDungeon;
+import com.trabalhoTec.trabfinal.CasosDeUso.RepoUsuario;
 import com.trabalhoTec.trabfinal.Entities.Dungeon;
 import com.trabalhoTec.trabfinal.Entities.Usuario;
 
